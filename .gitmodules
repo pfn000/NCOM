@@ -1,0 +1,3 @@
+[submodule "PleX"]
+	path = PleX
+	url = https://github.com/pfn000/PleX.git
