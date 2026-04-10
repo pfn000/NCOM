@@ -1,5 +1,5 @@
 [submodule "PleX"]
-	path = PleX
+	path = docs/ncom.co/~/PleX
 	url = https://github.com/pfn000/PleX.git
 [submodule "KhonXR"]
 	path = KhonXR
