@@ -1,3 +1,6 @@
 [submodule "PleX"]
 	path = PleX
 	url = https://github.com/pfn000/PleX.git
+[submodule "KhonXR"]
+	path = KhonXR
+	url = https://github.com/pfn000/KhonXR.git
