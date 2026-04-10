@@ -1,0 +1,5 @@
+https://github.com/pfn000/PleX/tree/main?search=1
+Subproject commit 68f732f91bc09b000c0741ab03d1b063f6e7bdca
+[submodule "PleX"]
+	path = PleX
+	url = https://github.com/pfn000/PleX.git
